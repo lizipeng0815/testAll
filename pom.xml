@@ -71,6 +71,7 @@
 
     <modules>
         <module>myba</module>
+        <module>mysql</module>
     </modules>
 
 </project>
